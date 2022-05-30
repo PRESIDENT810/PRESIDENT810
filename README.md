@@ -3,8 +3,9 @@
 </p>
 
 ## About me
-ByteDance, Client Infrastructure (2021-Current)
-The Chinese University of Hong Kong, Shenzhen, Computer Science & Engineer major, with a Bachlor of Engineering (2017-2021)
+- **ByteDance**: Client Infrastructure (2021-Current) 
+- **The Chinese University of Hong Kong, Shenzhen**: Computer Science & Engineer major, with a Bachlor of Engineering (2017-2021)
+
 
 #### 🌱 Things I am currently working on: 
 - Learning & Contributing to [llvm-project](https://github.com/llvm/llvm-project)
