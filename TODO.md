@@ -1,5 +1,5 @@
 ## Miscellaneous
-- [CS自救指南](https://csdiy.wiki)]()
+- [CS自救指南](https://csdiy.wiki)
 - [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 - [https://xiaoyang-liu.com](https://xiaoyang-liu.com/)
 - [美国四大CS名校MIT的计算机课程介绍](https://zhuanlan.zhihu.com/p/390868049)
