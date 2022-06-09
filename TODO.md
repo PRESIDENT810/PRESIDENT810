@@ -35,6 +35,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
   - [课程笔记](http://cs294-112.apachecn.org/#/README)
 - ~~[Stanford CS110L Safety in Systems Programming](https://reberhardt.com/cs110l/spring-2020/)~~
 - [Stanford CS329s Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html)
+- [Stanford CS242 Programming Languages](https://stanford-cs242.github.io/f18/)
 
 
 ## Leetcode
@@ -102,6 +103,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [Krustlet Quick Start](https://docs.krustlet.dev/intro/quickstart/)
 - [WASMEDGE Book](https://wasmedge.org/book/en/)
 - [wasmer](https://github.com/wasmerio/wasmer)
+- [WebAssembly Doc](https://developer.mozilla.org/zh-CN/docs/WebAssembly)
 
 
 ## Lisp
