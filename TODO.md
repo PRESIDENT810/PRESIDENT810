@@ -29,7 +29,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [CMU 15445 Intro to Database Systems](https://www.bilibili.com/video/BV1Cp4y1C7dv)
 - [CMU 15721 Advanced Databse Systems](https://www.bilibili.com/video/BV1aE411J7ak)
 - [UCB CS294 AI-Sys](https://ucbrise.github.io/cs294-ai-sys-sp22/#today)
-- [UCB CS294-112] Deep Reinforced Learning (http://rail.eecs.berkeley.edu/deeprlcourse-fa17/)
+- [UCB CS294-112 Deep Reinforced Learning](https://www.bilibili.com/video/BV1st411z7ZC)
   - [课程笔记](http://cs294-112.apachecn.org/#/README)
 - ~~[Stanford CS110L Safety in Systems Programming](https://reberhardt.com/cs110l/spring-2020/)~~
 - [Stanford CS329s Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html)
