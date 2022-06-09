@@ -13,7 +13,7 @@
 - Waiting for my U.S. Visa to be approved...
 
 
-💬 View my [TODO-list](https://github.com/PRESIDENT810/PRESIDENT810/blob/main/TODO.md) here, a tresure trove full of learning resources.
+💬 View my [TODO-list](https://github.com/PRESIDENT810/PRESIDENT810/blob/main/TODO.md) here, a treasure trove full of learning resources.
 
 
 <h3 align="left">Languages and Tools:</h3>
