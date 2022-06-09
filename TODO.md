@@ -1,3 +1,7 @@
+# PRESIDENT810's TODO List
+
+A list full of resources I plan to study, feel free to contact me for discussion.
+
 ## Miscellaneous
 - [CS自救指南](https://csdiy.wiki)
 - [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
@@ -131,7 +135,6 @@
 
 
 ## Database
-- [CMU 15445](https://15445.courses.cs.cmu.edu/fall2020/)
 - [浅析LSM-tree(WiscKey, Bourbon, Rum)](https://tech.bytedance.net/articles/6985142129597087775)
 - [数据库教程](https://github.com/dunwu/db-tutorial)
 - [数据库相关的一些论文](https://mrcroxx.github.io/posts/reading-list)

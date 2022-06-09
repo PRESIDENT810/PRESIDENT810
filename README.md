@@ -3,8 +3,8 @@
 </p>
 
 ## About me
-- **ByteDance**: Client Infrastructure (2021-Current) 
-- **The Chinese University of Hong Kong, Shenzhen**: Computer Science & Engineer major, with a Bachlor of Engineering (2017-2021)
+- **ByteDance**: Client Infrastructure (2021-Current), worked on Bazel, LLVM infrastructure, mostly iOS-related.
+- **The Chinese University of Hong Kong, Shenzhen**: Computer Science & Engineer major, with a Bachlor of Engineering (2017-2021).
 
 
 #### 🌱 Things I am currently working on: 
@@ -13,7 +13,7 @@
 - Waiting for my U.S. Visa to be approved...
 
 
-View my [TODO-list](https://github.com/PRESIDENT810/PRESIDENT810/blob/main/TODO.md) here, a tresure trove full of learning resources.
+💬 View my [TODO-list](https://github.com/PRESIDENT810/PRESIDENT810/blob/main/TODO.md) here, a tresure trove full of learning resources.
 
 
 <h3 align="left">Languages and Tools:</h3>
