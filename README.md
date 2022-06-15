@@ -4,7 +4,7 @@
 
 ## About me
 - **University of Illinois, Urbana Champaign** (2022-2023, expected): Electrical & Computer Engineering major, with a Master of Engineering
-- **ByteDance**: Client Infrastructure (2021-2022), worked on Bazel, LLVM infrastructure, mostly iOS-related.
+- **TikTok**: Client Infrastructure (2021-2022), worked on Bazel and LLVM infrastructure, mostly iOS-related.
 - **The Chinese University of Hong Kong, Shenzhen** (2017-2021): Computer Science & Engineer major, with a Bachlor of Engineering.
 
 
