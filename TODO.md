@@ -1,4 +1,4 @@
-# PRESIDENT810's TODO List
+# Jacket's TODO List
 
 A list full of resources I plan to study, feel free to contact me for discussion.
 
