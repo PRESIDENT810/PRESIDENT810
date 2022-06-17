@@ -78,6 +78,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - https://www.gartner.com/smarterwithgartner/gartner-top-10-data-analytics-trends
 - https://eng.uber.com/uber-big-data-platform/
 - https://engineering.linkedin.com/blog/2016/02/eliminating-large-jvm-gc-pauses-caused-by-background-io-traffic
+- https://luminousmen.com/post/big-data-file-formats
 - https://mp.weixin.qq.com/s/Jykc9QUFd5Mp5STN5Pk-VA
 
 
