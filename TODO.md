@@ -156,6 +156,10 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [PostgreSQL Notes](https://vonng.github.io/pg/#/)
 
 
+## Computer System
+- [开发内功修炼](https://github.com/yanfeizhang/coder-kung-fu)
+
+
 ## Machine Learning
 - [MLsys各方向综述](https://zhuanlan.zhihu.com/p/104444471)
 - [Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning)
