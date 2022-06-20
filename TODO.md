@@ -59,6 +59,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - 2021技术人的百宝黑皮书
 - SICP
 - 构建之法
+- 性能之巅
 - 垃圾回收的算法与实现
 
 
