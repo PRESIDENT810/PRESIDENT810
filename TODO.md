@@ -52,7 +52,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - ~~[DDIA](https://vonng.gitbook.io/vonng/)~~
 - [Software Engineering at Google](https://qiangmzsx.github.io/Software-Engineering-at-Google/#/?id=software-engineering-at-google)
 - [机器学习系统：设计和实现](https://openmlsys.github.io/)
-- [站点可靠性工作手册 ](https://redbearder.github.io/The-Site-Reliability-Workbook-CHS/)
+- [站点可靠性工作手册](https://redbearder.github.io/The-Site-Reliability-Workbook-CHS/)
 - 微服务架构设计模式
 - Kubernetes in Action
 - [凤凰架构](https://icyfenix.cn/immutable-infrastructure/msa-to-cn.html)
@@ -161,6 +161,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 
 ## Computer System
 - [开发内功修炼](https://github.com/yanfeizhang/coder-kung-fu)
+- [The Linux Perf Master](https://riboseyim.gitbook.io/perf)
 
 
 ## Machine Learning
