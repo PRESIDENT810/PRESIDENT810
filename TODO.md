@@ -165,6 +165,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [MLsys各方向综述](https://zhuanlan.zhihu.com/p/104444471)
 - [Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning)
 - [用让新海诚本人惊讶的 AI 模型制作属于你的动漫视频](https://soulteary.com/2022/06/04/create-your-own-anime-video-with-an-ai-model-that-surprised-makoto-shinkai.html)
+- [Made With ML](https://github.com/GokuMohandas/MadeWithML)
 
 
 ## Distributed System & Cloud
