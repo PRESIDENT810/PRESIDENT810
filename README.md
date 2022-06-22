@@ -6,14 +6,14 @@
 
 Currently looking for a 2023 summer internship in U.S.
 
-- **ByteDance**: Client Infrastructure (2021-Current), worked on Bazel, LLVM infrastructure, mostly iOS-related.
-- **The Chinese University of Hong Kong, Shenzhen**: Computer Science & Engineer major, with a Bachlor of Engineering (2017-2021).
+- **University of Illinois, Urbana Champaign** (2022-2023, expected): Electrical & Computer Engineering major, with a Master of Engineering
+- **TikTok**: Client Infrastructure (2021-2022), worked on Bazel and LLVM infrastructure, mostly iOS-related.
+- **The Chinese University of Hong Kong, Shenzhen** (2017-2021): Computer Science & Engineer major, with a Bachlor of Engineering.
 
 
 #### 🌱 Things I am currently working on: 
 - Learning & Contributing to [llvm-project](https://github.com/llvm/llvm-project)
 - Self-studying [MIT-6.824](https://pdos.csail.mit.edu/6.824/schedule.html)
-- Waiting for my U.S. Visa to be approved...
 
 
 💬 View my [TODO-list](https://github.com/PRESIDENT810/PRESIDENT810/blob/main/TODO.md) here, a treasure trove full of learning resources.

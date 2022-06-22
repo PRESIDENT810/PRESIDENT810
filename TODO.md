@@ -1,10 +1,11 @@
-# PRESIDENT810's TODO List
+# Jacket's TODO List
 
 A list full of resources I plan to study, feel free to contact me for discussion.
 
 ## Miscellaneous
 - [CS自救指南](https://csdiy.wiki)
 - [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+- [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/)
 - [https://xiaoyang-liu.com](https://xiaoyang-liu.com/)
 - [美国四大CS名校MIT的计算机课程介绍](https://zhuanlan.zhihu.com/p/390868049)
 - [system-design-interview](https://github.com/checkcheckzz/system-design-interview)
@@ -28,6 +29,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [MIT 6.837 Computer Graphics](https://www.bilibili.com/video/BV167411g7iK)
 - [MIT 6.851 Advanced Data Structures](https://www.bilibili.com/video/BV1iE411n7yJ)
 - [MIT 6.854 Advanced Algorithms](https://www.bilibili.com/video/BV11E411u73m)
+- [CMU 15213 Intro to Computer System](https://github.com/EugeneLiu/translationCSAPP)
 - [CMU 15445 Intro to Database Systems](https://www.bilibili.com/video/BV1Cp4y1C7dv)
 - [CMU 15721 Advanced Databse Systems](https://www.bilibili.com/video/BV1aE411J7ak)
 - [UCB CS294 AI-Sys](https://ucbrise.github.io/cs294-ai-sys-sp22/#today)
@@ -50,13 +52,14 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - ~~[DDIA](https://vonng.gitbook.io/vonng/)~~
 - [Software Engineering at Google](https://qiangmzsx.github.io/Software-Engineering-at-Google/#/?id=software-engineering-at-google)
 - [机器学习系统：设计和实现](https://openmlsys.github.io/)
-- [站点可靠性工作手册 ](https://redbearder.github.io/The-Site-Reliability-Workbook-CHS/)
+- [站点可靠性工作手册](https://redbearder.github.io/The-Site-Reliability-Workbook-CHS/)
 - 微服务架构设计模式
 - Kubernetes in Action
 - [凤凰架构](https://icyfenix.cn/immutable-infrastructure/msa-to-cn.html)
 - 2021技术人的百宝黑皮书
 - SICP
 - 构建之法
+- 性能之巅
 - 垃圾回收的算法与实现
 
 
@@ -77,6 +80,9 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - https://www.gartner.com/smarterwithgartner/gartner-top-10-data-analytics-trends
 - https://eng.uber.com/uber-big-data-platform/
 - https://engineering.linkedin.com/blog/2016/02/eliminating-large-jvm-gc-pauses-caused-by-background-io-traffic
+- https://luminousmen.com/post/big-data-file-formats
+- https://mp.weixin.qq.com/s/Jykc9QUFd5Mp5STN5Pk-VA
+- https://www.usenix.org/conference/atc20/presentation/shahrad
 
 
 ## Workout
@@ -86,6 +92,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 ## C++
 - [C++最佳实践](https://github.com/cpp-best-practices/cppbestpractices)
 - [C++那点事](https://github.com/Light-City/CPlusPlusThings)
+- [Assembly Register Calling Convention Tutorial](https://www.raywenderlich.com/615-assembly-register-calling-convention-tutorial)
 
 
 ## Rust
@@ -124,6 +131,9 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - https://github.com/llvm/llvm-project/issues/47487
 - https://github.com/llvm/llvm-project/issues/54576
 - https://github.com/llvm/llvm-project/issues/54550
+- https://github.com/llvm/llvm-project/issues/51924
+- https://github.com/llvm/llvm-project/issues/53104
+- https://github.com/llvm/llvm-project/issues/49823
 - [LLVM-Clang-Study-Notes](https://github.com/Enna1/LLVM-Clang-Study-Notes)
 - [Creating an LLVM Sanitizer from Hopes and Dreams](https://blog.trailofbits.com/2019/06/25/creating-an-llvm-sanitizer-from-hopes-and-dreams/)
 
@@ -150,9 +160,16 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [PostgreSQL Notes](https://vonng.github.io/pg/#/)
 
 
+## Computer System
+- [开发内功修炼](https://github.com/yanfeizhang/coder-kung-fu)
+- [The Linux Perf Master](https://riboseyim.gitbook.io/perf)
+
+
 ## Machine Learning
 - [MLsys各方向综述](https://zhuanlan.zhihu.com/p/104444471)
 - [Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning)
+- [用让新海诚本人惊讶的 AI 模型制作属于你的动漫视频](https://soulteary.com/2022/06/04/create-your-own-anime-video-with-an-ai-model-that-surprised-makoto-shinkai.html)
+- [Made With ML](https://github.com/GokuMohandas/MadeWithML)
 
 
 ## Distributed System & Cloud
