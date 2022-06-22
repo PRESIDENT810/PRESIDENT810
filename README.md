@@ -3,6 +3,9 @@
 </p>
 
 ## About me
+
+Currently looking for a 2023 summer internship in U.S.
+
 - **ByteDance**: Client Infrastructure (2021-Current), worked on Bazel, LLVM infrastructure, mostly iOS-related.
 - **The Chinese University of Hong Kong, Shenzhen**: Computer Science & Engineer major, with a Bachlor of Engineering (2017-2021).
 
@@ -14,6 +17,8 @@
 
 
 💬 View my [TODO-list](https://github.com/PRESIDENT810/PRESIDENT810/blob/main/TODO.md) here, a treasure trove full of learning resources.
+
+📄 Check my [Resume](https://github.com/PRESIDENT810/PRESIDENT810/blob/main/Resume.pdf).
 
 
 <h3 align="left">Languages and Tools:</h3>
