@@ -194,6 +194,9 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [serverless-handbook](https://github.com/rootsongjc/serverless-handbook)
 - https://jimmysong.io/cheatsheets/
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)
+- [深入TiDB](https://www.luozhiyun.com/archives/tag/tidb)
+- [深入k8s](https://www.luozhiyun.com/archives/tag/深入k8s)
+- [深入istio](https://www.luozhiyun.com/archives/tag/istio)
 
 
 ## GitHub
