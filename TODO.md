@@ -102,6 +102,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [The wasm-bindgen Guide](https://rustwasm.github.io/wasm-bindgen/)
 - [Rust设计模式](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/)
 - [Rust语言圣经](https://course.rs/about-book.html)
+- [Open-Source-OS-Tutorial-Summer-of-Code-2022](https://learningos.github.io/rust-based-os-comp2022/)
 
 
 ## WASM
