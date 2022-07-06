@@ -139,6 +139,8 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [LLVM-Clang-Study-Notes](https://github.com/Enna1/LLVM-Clang-Study-Notes)
 - [Creating an LLVM Sanitizer from Hopes and Dreams](https://blog.trailofbits.com/2019/06/25/creating-an-llvm-sanitizer-from-hopes-and-dreams/)
 - [LLD for Mach-O](https://llvm.org/devmtg/2022-05/slides/2022EuroLLVM-LLD-for-Mach-O.pdf)
+- [LLVM Tutorial](https://llvm.org/docs/tutorial/index.html)
+- [LLVM IR Tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial)
 
 
 ## Golang
