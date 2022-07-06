@@ -142,6 +142,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [LLVM Tutorial](https://llvm.org/docs/tutorial/index.html)
 - [LLVM IR Tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial)
 - [LLVM Command Guide](https://llvm.org/docs/CommandGuide/index.html)
+- [LLVM Language Reference](https://llvm.org/docs/LangRef.html)
 
 
 ## Golang
