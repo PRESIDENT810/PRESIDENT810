@@ -141,6 +141,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [LLD for Mach-O](https://llvm.org/devmtg/2022-05/slides/2022EuroLLVM-LLD-for-Mach-O.pdf)
 - [LLVM Tutorial](https://llvm.org/docs/tutorial/index.html)
 - [LLVM IR Tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial)
+- [LLVM Command Guide](https://llvm.org/docs/CommandGuide/index.html)
 
 
 ## Golang
