@@ -86,6 +86,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - https://luminousmen.com/post/big-data-file-formats
 - https://mp.weixin.qq.com/s/Jykc9QUFd5Mp5STN5Pk-VA
 - https://www.usenix.org/conference/atc20/presentation/shahrad
+- https://maskray.me/static/design-thinking-of-eight-programming-languages.pdf
 
 
 ## Workout
