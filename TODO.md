@@ -219,6 +219,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [如何对GitHub commit提交签名](https://docs.github.com/cn/authentication/managing-commit-signature-verification/signing-commits)
 - [开源最佳实践](https://github.com/LinuxSuRen/open-source-best-practice)
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+- [Oh Shit, Git?!](https://ohshitgit.com/)
 
 ## Udemy
 找工群学长推荐
