@@ -12,6 +12,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [so-you-want-an-internship](https://github.com/codebytere/so-you-want-an-internship)
 - [Google 开源项目风格指南——中文版](https://zh-google-styleguide.readthedocs.io/en/latest/)
+- [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 
 
 ## Courses
