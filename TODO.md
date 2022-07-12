@@ -16,8 +16,10 @@ A list full of resources I plan to study, feel free to contact me for discussion
 
 
 ## Courses
-- [MIT 6.001 SICP]
+- [MIT 6.001 SICP](https://www.bilibili.com/video/BV19U4y187U5)
+  - [课程笔记](https://zhenghe.gitbook.io/open-courses/mit-6.001-sicp/shen-me-shi-cheng-xu)
 - [MIT 6.004 Computation Structures](https://www.bilibili.com/video/BV1KK411u7FX?p=15)
+- [MIT 6.006 Introduction to Algorithms](https://www.bilibili.com/video/BV1b7411e7ZP)
 - [MIT 6.033 Computer Systems Engineering](https://www.bilibili.com/video/BV1Ai4y1P7Fb)
 - [MIT 6.046 Design and Analysis of Algorithms](https://www.bilibili.com/video/av34892415)
 - [MIT 6.172 Performance Engineering of Software Systems](https://www.bilibili.com/video/BV1wA411h7N7)
@@ -42,7 +44,9 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [UCB CS294 AI-Sys](https://ucbrise.github.io/cs294-ai-sys-sp22/#today)
 - [UCB CS294-112 Deep Reinforced Learning](https://www.bilibili.com/video/BV1st411z7ZC)
   - [课程笔记](http://cs294-112.apachecn.org/#/README)
-- ~~[Stanford CS110L Safety in Systems Programming](https://reberhardt.com/cs110l/spring-2020/)~~
+- ~~[Stanford CS110L Safety in Systems Programming](https://www.bilibili.com/video/BV1Ra411A7kN)~~
+- [Stanford CS107 Computer Organization & Systems](https://www.bilibili.com/video/BV1ua4y1a72K)
+  - [课程笔记](https://zhenghe.gitbook.io/open-courses/stanford-cs107/di-er-ke-yuan-shi-shu-ju-lei-xing-ji-xiang-hu-zhuan-hua)
 - [Stanford CS329s Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html)
 - [Stanford CS242 Programming Languages](https://stanford-cs242.github.io/f18/)
 - [UIUC ECE408 Applied Parallel Programming](https://www.bilibili.com/video/BV11U4y1n7C8)
