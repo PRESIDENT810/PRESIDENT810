@@ -16,6 +16,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 
 
 ## Courses
+- [MIT 6.001 SICP]
 - [MIT 6.004 Computation Structures](https://www.bilibili.com/video/BV1KK411u7FX?p=15)
 - [MIT 6.033 Computer Systems Engineering](https://www.bilibili.com/video/BV1Ai4y1P7Fb)
 - [MIT 6.046 Design and Analysis of Algorithms](https://www.bilibili.com/video/av34892415)
@@ -34,7 +35,10 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [CMU 15213 Intro to Computer System](https://github.com/EugeneLiu/translationCSAPP)
 - [CMU 15418 Parallel Computer Architecture and Programming](https://www.bilibili.com/video/BV1qT411g7n9)
 - [CMU 15445 Intro to Database Systems](https://www.bilibili.com/video/BV1Cp4y1C7dv)
+  - [课程笔记](https://zhenghe.gitbook.io/open-courses/cmu-15-445-645-database-systems/relational-data-model)
 - [CMU 15721 Advanced Databse Systems](https://www.bilibili.com/video/BV1aE411J7ak)
+- [UCB CS162 Operating Systems and System Programming](https://www.bilibili.com/video/BV1yk4y1q7C6)
+  - [课程笔记](https://zhenghe.gitbook.io/open-courses/ucb-cs162/os-intro)
 - [UCB CS294 AI-Sys](https://ucbrise.github.io/cs294-ai-sys-sp22/#today)
 - [UCB CS294-112 Deep Reinforced Learning](https://www.bilibili.com/video/BV1st411z7ZC)
   - [课程笔记](http://cs294-112.apachecn.org/#/README)
