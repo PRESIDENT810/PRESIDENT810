@@ -45,6 +45,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [UCB CS294-112 Deep Reinforced Learning](https://www.bilibili.com/video/BV1st411z7ZC)
   - [课程笔记](http://cs294-112.apachecn.org/#/README)
 - ~~[Stanford CS110L Safety in Systems Programming](https://www.bilibili.com/video/BV1Ra411A7kN)~~
+- [Stanford CS007 Personal Finance for Engineers](https://cs007.blog)
 - [Stanford CS107 Programming Paradigms]([https://www.bilibili.com/video/BV1ua4y1a72K](https://www.bilibili.com/video/BV1Cx411S7HJ)
   - [课程笔记](https://zhenghe.gitbook.io/open-courses/stanford-cs107/di-er-ke-yuan-shi-shu-ju-lei-xing-ji-xiang-hu-zhuan-hua)
 - [Stanford CS329s Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html)
@@ -193,6 +194,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning)
 - [Made With ML](https://github.com/GokuMohandas/MadeWithML)
 - [机器学习编译课程](https://mlc.ai/zh/index.html)
+- [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0)
 
 ## Just For Fun
 - [用让新海诚本人惊讶的 AI 模型制作属于你的动漫视频](https://soulteary.com/2022/06/04/create-your-own-anime-video-with-an-ai-model-that-surprised-makoto-shinkai.html)
