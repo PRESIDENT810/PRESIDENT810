@@ -11,10 +11,15 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [system-design-interview](https://github.com/checkcheckzz/system-design-interview)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [so-you-want-an-internship](https://github.com/codebytere/so-you-want-an-internship)
+- [Google 开源项目风格指南——中文版](https://zh-google-styleguide.readthedocs.io/en/latest/)
+- [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 
 
 ## Courses
+- [MIT 6.001 SICP](https://www.bilibili.com/video/BV19U4y187U5)
+  - [课程笔记](https://zhenghe.gitbook.io/open-courses/mit-6.001-sicp/shen-me-shi-cheng-xu)
 - [MIT 6.004 Computation Structures](https://www.bilibili.com/video/BV1KK411u7FX?p=15)
+- [MIT 6.006 Introduction to Algorithms](https://www.bilibili.com/video/BV1b7411e7ZP)
 - [MIT 6.033 Computer Systems Engineering](https://www.bilibili.com/video/BV1Ai4y1P7Fb)
 - [MIT 6.046 Design and Analysis of Algorithms](https://www.bilibili.com/video/av34892415)
 - [MIT 6.172 Performance Engineering of Software Systems](https://www.bilibili.com/video/BV1wA411h7N7)
@@ -30,14 +35,22 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [MIT 6.851 Advanced Data Structures](https://www.bilibili.com/video/BV1iE411n7yJ)
 - [MIT 6.854 Advanced Algorithms](https://www.bilibili.com/video/BV11E411u73m)
 - [CMU 15213 Intro to Computer System](https://github.com/EugeneLiu/translationCSAPP)
+- [CMU 15418 Parallel Computer Architecture and Programming](https://www.bilibili.com/video/BV1qT411g7n9)
 - [CMU 15445 Intro to Database Systems](https://www.bilibili.com/video/BV1Cp4y1C7dv)
+  - [课程笔记](https://zhenghe.gitbook.io/open-courses/cmu-15-445-645-database-systems/relational-data-model)
 - [CMU 15721 Advanced Databse Systems](https://www.bilibili.com/video/BV1aE411J7ak)
+- [UCB CS162 Operating Systems and System Programming](https://www.bilibili.com/video/BV1yk4y1q7C6)
+  - [课程笔记](https://zhenghe.gitbook.io/open-courses/ucb-cs162/os-intro)
 - [UCB CS294 AI-Sys](https://ucbrise.github.io/cs294-ai-sys-sp22/#today)
 - [UCB CS294-112 Deep Reinforced Learning](https://www.bilibili.com/video/BV1st411z7ZC)
   - [课程笔记](http://cs294-112.apachecn.org/#/README)
-- ~~[Stanford CS110L Safety in Systems Programming](https://reberhardt.com/cs110l/spring-2020/)~~
+- ~~[Stanford CS110L Safety in Systems Programming](https://www.bilibili.com/video/BV1Ra411A7kN)~~
+- [Stanford CS007 Personal Finance for Engineers](https://cs007.blog)
+- [Stanford CS107 Programming Paradigms]([https://www.bilibili.com/video/BV1ua4y1a72K](https://www.bilibili.com/video/BV1Cx411S7HJ)
+  - [课程笔记](https://zhenghe.gitbook.io/open-courses/stanford-cs107/di-er-ke-yuan-shi-shu-ju-lei-xing-ji-xiang-hu-zhuan-hua)
 - [Stanford CS329s Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html)
 - [Stanford CS242 Programming Languages](https://stanford-cs242.github.io/f18/)
+- [UIUC ECE408 Applied Parallel Programming](https://www.bilibili.com/video/BV11U4y1n7C8)
 
 
 ## Leetcode
@@ -46,6 +59,8 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/
 - https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/
 - https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
+- https://leetcode.cn/problems/replace-words/
+- https://leetcode.cn/problems/my-calendar-i/
 
 
 ## Reading
@@ -83,6 +98,8 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - https://luminousmen.com/post/big-data-file-formats
 - https://mp.weixin.qq.com/s/Jykc9QUFd5Mp5STN5Pk-VA
 - https://www.usenix.org/conference/atc20/presentation/shahrad
+- https://maskray.me/static/design-thinking-of-eight-programming-languages.pdf
+- https://howardlau.me/programming/coroutines-rust-cpp20.html
 
 
 ## Workout
@@ -93,6 +110,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [C++最佳实践](https://github.com/cpp-best-practices/cppbestpractices)
 - [C++那点事](https://github.com/Light-City/CPlusPlusThings)
 - [Assembly Register Calling Convention Tutorial](https://www.raywenderlich.com/615-assembly-register-calling-convention-tutorial)
+- [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
 
 
 ## Rust
@@ -102,6 +120,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [The wasm-bindgen Guide](https://rustwasm.github.io/wasm-bindgen/)
 - [Rust设计模式](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/)
 - [Rust语言圣经](https://course.rs/about-book.html)
+- [Open-Source-OS-Tutorial-Summer-of-Code-2022](https://learningos.github.io/rust-based-os-comp2022/)
 
 
 ## WASM
@@ -136,6 +155,11 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - https://github.com/llvm/llvm-project/issues/49823
 - [LLVM-Clang-Study-Notes](https://github.com/Enna1/LLVM-Clang-Study-Notes)
 - [Creating an LLVM Sanitizer from Hopes and Dreams](https://blog.trailofbits.com/2019/06/25/creating-an-llvm-sanitizer-from-hopes-and-dreams/)
+- [LLD for Mach-O](https://llvm.org/devmtg/2022-05/slides/2022EuroLLVM-LLD-for-Mach-O.pdf)
+- [LLVM Tutorial](https://llvm.org/docs/tutorial/index.html)
+- [LLVM IR Tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial)
+- [LLVM Command Guide](https://llvm.org/docs/CommandGuide/index.html)
+- [LLVM Language Reference](https://llvm.org/docs/LangRef.html)
 
 
 ## Golang
@@ -168,8 +192,14 @@ A list full of resources I plan to study, feel free to contact me for discussion
 ## Machine Learning
 - [MLsys各方向综述](https://zhuanlan.zhihu.com/p/104444471)
 - [Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning)
-- [用让新海诚本人惊讶的 AI 模型制作属于你的动漫视频](https://soulteary.com/2022/06/04/create-your-own-anime-video-with-an-ai-model-that-surprised-makoto-shinkai.html)
 - [Made With ML](https://github.com/GokuMohandas/MadeWithML)
+- [机器学习编译课程](https://mlc.ai/zh/index.html)
+- [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0)
+
+## Just For Fun
+- [用让新海诚本人惊讶的 AI 模型制作属于你的动漫视频](https://soulteary.com/2022/06/04/create-your-own-anime-video-with-an-ai-model-that-surprised-makoto-shinkai.html)
+- [Low-Poly 风格的图像、视频处理](http://zhangwenli.com/blog/2015/06/25/polyvia/)
+- [口红颜色可视化](https://github.com/Ovilia/lipstick)
 
 
 ## Distributed System & Cloud
@@ -194,12 +224,17 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [serverless-handbook](https://github.com/rootsongjc/serverless-handbook)
 - https://jimmysong.io/cheatsheets/
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)
+- [深入TiDB](https://www.luozhiyun.com/archives/tag/tidb)
+- [深入k8s](https://www.luozhiyun.com/archives/tag/深入k8s)
+- [深入istio](https://www.luozhiyun.com/archives/tag/istio)
+- [CNCF landscape](https://landscape.cncf.io/)
 
 
 ## GitHub
 - [如何对GitHub commit提交签名](https://docs.github.com/cn/authentication/managing-commit-signature-verification/signing-commits)
 - [开源最佳实践](https://github.com/LinuxSuRen/open-source-best-practice)
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+- [Oh Shit, Git?!](https://ohshitgit.com/)
 
 ## Udemy
 找工群学长推荐
