@@ -13,6 +13,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [so-you-want-an-internship](https://github.com/codebytere/so-you-want-an-internship)
 - [Google 开源项目风格指南——中文版](https://zh-google-styleguide.readthedocs.io/en/latest/)
 - [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
 
 ## Courses
