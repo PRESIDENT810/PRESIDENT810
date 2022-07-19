@@ -176,6 +176,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 
 ## Swift
 - [Swift 教程](https://swiftgg.gitbook.io/swift/swift-jiao-cheng)
+- [Building a class-dump in 2019 2020](https://derekselander.github.io/dsdump/)
 
 
 ## Database
