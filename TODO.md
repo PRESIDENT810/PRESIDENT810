@@ -61,7 +61,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/
 - https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
 - https://leetcode.cn/problems/replace-words/
-- https://leetcode.cn/problems/my-calendar-i/
+- https://leetcode.cn/problems/my-calendar-ii/solution/by-lfool-nodi/
 
 
 ## Reading
