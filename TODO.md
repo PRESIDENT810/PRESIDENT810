@@ -157,6 +157,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - https://github.com/llvm/llvm-project/issues/56576
 - https://github.com/llvm/llvm-project/issues/56570
   - https://gankra.github.io/blah/compact-unwinding/
+- lld-macho: ld64.lld: warning: Option `-alias' is not yet implemented. Stay tuned...
 - [LLVM-Clang-Study-Notes](https://github.com/Enna1/LLVM-Clang-Study-Notes)
 - [Creating an LLVM Sanitizer from Hopes and Dreams](https://blog.trailofbits.com/2019/06/25/creating-an-llvm-sanitizer-from-hopes-and-dreams/)
 - [LLD for Mach-O](https://llvm.org/devmtg/2022-05/slides/2022EuroLLVM-LLD-for-Mach-O.pdf)
