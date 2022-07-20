@@ -122,6 +122,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [Rust设计模式](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/)
 - [Rust语言圣经](https://course.rs/about-book.html)
 - [Open-Source-OS-Tutorial-Summer-of-Code-2022](https://learningos.github.io/rust-based-os-comp2022/)
+- [Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 
 
 ## WASM
