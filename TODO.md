@@ -202,6 +202,8 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [Made With ML](https://github.com/GokuMohandas/MadeWithML)
 - [机器学习编译课程](https://mlc.ai/zh/index.html)
 - [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0)
+- [GPU Puzzles](https://github.com/srush/GPU-Puzzles)
+- [Data Science Interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview)
 
 ## Just For Fun
 - [用让新海诚本人惊讶的 AI 模型制作属于你的动漫视频](https://soulteary.com/2022/06/04/create-your-own-anime-video-with-an-ai-model-that-surprised-makoto-shinkai.html)
