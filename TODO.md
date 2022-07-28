@@ -194,6 +194,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 ## Computer System
 - [开发内功修炼](https://github.com/yanfeizhang/coder-kung-fu)
 - [The Linux Perf Master](https://riboseyim.gitbook.io/perf)
+- [品读 Linux 0.11 核心代码](https://github.com/sunym1993/flash-linux0.11-talk)
 
 
 ## Machine Learning
