@@ -239,6 +239,9 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [深入istio](https://www.luozhiyun.com/archives/tag/istio)
 - [CNCF landscape](https://landscape.cncf.io/)
 
+## Web3
+- [Web3-awesome](https://github.com/fltenwall/web3-awesome)
+
 
 ## GitHub
 - [如何对GitHub commit提交签名](https://docs.github.com/cn/authentication/managing-commit-signature-verification/signing-commits)
