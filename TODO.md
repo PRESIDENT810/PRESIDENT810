@@ -32,6 +32,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [MIT 6.828 Operating Systems](https://www.bilibili.com/video/BV19k4y1C7kA)
   - [课程笔记](https://mit-public-courses-cn-translatio.gitbook.io/mit6-s081/)
   - [Lab笔记](http://xv6.dgs.zone)
+  - [xv6中文文档]https://th0ar.gitbooks.io/xv6-chinese/content/
 - [MIT 6.837 Computer Graphics](https://www.bilibili.com/video/BV167411g7iK)
 - [MIT 6.851 Advanced Data Structures](https://www.bilibili.com/video/BV1iE411n7yJ)
 - [MIT 6.854 Advanced Algorithms](https://www.bilibili.com/video/BV11E411u73m)
