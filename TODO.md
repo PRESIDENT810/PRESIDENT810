@@ -104,15 +104,16 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - https://howardlau.me/programming/coroutines-rust-cpp20.html
 
 
-## Workout
-干！
-
-
 ## C++
 - [C++最佳实践](https://github.com/cpp-best-practices/cppbestpractices)
 - [C++那点事](https://github.com/Light-City/CPlusPlusThings)
 - [Assembly Register Calling Convention Tutorial](https://www.raywenderlich.com/615-assembly-register-calling-convention-tutorial)
 - [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+- [C++20 Modules](https://lancern.xyz/cpp20-modules)
+- [C++20 Coroutine](https://lancern.xyz/cpp20-coroutines)
+- [C++20 std::format](https://lancern.xyz/cpp20-format)
+- [C++20 Range](https://lancern.xyz/cpp20-ranges)
+- [理解 C++ 的六种 Memory Order](https://lancern.xyz/cpp-memory-order#7d4161525fa3462b9c0eae0df487af54)
 
 
 ## Rust
@@ -239,6 +240,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 
 ## Web3
 - [Web3-awesome](https://github.com/fltenwall/web3-awesome)
+- [比特币极速入门指南](https://leeduckgo.gitee.io/bitcoin_elementary_course_based_on_jupyterlab/)
 
 
 ## GitHub
@@ -246,6 +248,11 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [开源最佳实践](https://github.com/LinuxSuRen/open-source-best-practice)
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 - [Oh Shit, Git?!](https://ohshitgit.com/)
+
+
+## Tools
+- [在 2022 年使用 Notion 管理博客文章](https://lancern.xyz/notion-for-blog-in-2022)
+
 
 ## Udemy
 找工群学长推荐
