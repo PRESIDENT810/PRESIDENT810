@@ -9,6 +9,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [https://xiaoyang-liu.com](https://xiaoyang-liu.com/)
 - [美国四大CS名校MIT的计算机课程介绍](https://zhuanlan.zhihu.com/p/390868049)
 - [system-design-interview](https://github.com/checkcheckzz/system-design-interview)
+- [system-design-resources](https://github.com/InterviewReady/system-design-resources)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [so-you-want-an-internship](https://github.com/codebytere/so-you-want-an-internship)
 - [Google 开源项目风格指南——中文版](https://zh-google-styleguide.readthedocs.io/en/latest/)
