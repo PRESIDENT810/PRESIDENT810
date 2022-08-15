@@ -37,6 +37,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [MIT 6.837 Computer Graphics](https://www.bilibili.com/video/BV167411g7iK)
 - [MIT 6.851 Advanced Data Structures](https://www.bilibili.com/video/BV1iE411n7yJ)
 - [MIT 6.854 Advanced Algorithms](https://www.bilibili.com/video/BV11E411u73m)
+- [MIT 15.401 Finance Theory I](https://www.bilibili.com/video/BV17t411v711)
 - [CMU 15213 Intro to Computer System](https://github.com/EugeneLiu/translationCSAPP)
 - [CMU 15418 Parallel Computer Architecture and Programming](https://www.bilibili.com/video/BV1qT411g7n9)
 - [CMU 15445 Intro to Database Systems](https://www.bilibili.com/video/BV1Cp4y1C7dv)
