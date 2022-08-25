@@ -88,9 +88,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - https://eng.uber.com/postgres-to-mysql-migration/
 - https://eng.uber.com/reliable-reprocessing/
 - https://eng.uber.com/tech-stack-part-one-foundation/
-- https://eng.uber.com/uber-tech-stack-part-two/
-- https://tech.bytedance.net/articles/7073718490451935239
-- https://tech.bytedance.net/articles/7074212165103648804
+- https://eng.uber.com/uber-tech-stack-part-two/103648804
 - https://www.brendangregg.com/blog/2022-04-15/netflix-farewell-1.html
 - https://www.networkworld.com/article/3224893/what-is-edge-computing-and-how-it-s-changing-the-network.html
 - https://xueqiu.com/8302426719/128109564
@@ -154,12 +152,6 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [LLVM Programmers Manual](https://llvm.org/docs/ProgrammersManual.html)
 - [Getting Started with LLVM Core Libraries](https://getting-started-with-llvm-core-libraries-zh-cn.readthedocs.io/zh_CN/latest/ch01.html)
 - [LLVM Data-structures overview](https://llvm.org/devmtg/2014-04/PDFs/LightningTalks/data_structure_llvm.pdf)
-- https://github.com/llvm/llvm-project/issues/55507
-- https://github.com/llvm/llvm-project/issues/47487
-- https://github.com/llvm/llvm-project/issues/54576
-- https://github.com/llvm/llvm-project/issues/51924
-- https://github.com/llvm/llvm-project/issues/53104
-- lld-macho: ld64.lld: warning: Option `-alias' is not yet implemented. Stay tuned...
 - [LLVM-Clang-Study-Notes](https://github.com/Enna1/LLVM-Clang-Study-Notes)
 - [Creating an LLVM Sanitizer from Hopes and Dreams](https://blog.trailofbits.com/2019/06/25/creating-an-llvm-sanitizer-from-hopes-and-dreams/)
 - [LLD for Mach-O](https://llvm.org/devmtg/2022-05/slides/2022EuroLLVM-LLD-for-Mach-O.pdf)
@@ -167,7 +159,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [LLVM IR Tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial)
 - [LLVM Command Guide](https://llvm.org/docs/CommandGuide/index.html)
 - [LLVM Language Reference](https://llvm.org/docs/LangRef.html)
-- https://gankra.github.io/blah/compact-unwinding/
+- [Apple Compact Unwinding Format](https://gankra.github.io/blah/compact-unwinding/)
 
 
 ## Golang
@@ -259,12 +251,3 @@ A list full of resources I plan to study, feel free to contact me for discussion
 ## Tools
 - [在 2022 年使用 Notion 管理博客文章](https://lancern.xyz/notion-for-blog-in-2022)
 
-
-## Udemy
-找工群学长推荐
-
-1 MERN full stack then deploy on AWS
-
-2 Spring boot app
-
-3 K8s docker microservices
