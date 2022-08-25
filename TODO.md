@@ -222,6 +222,8 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [Prometheus 存储引擎分析](https://liujiacai.net/blog/2021/04/11/prometheus-storage-engine/)
 - [streaming systems领域论文](https://github.com/lw-lin/streaming-readings)
 - [Flink教程](https://github.com/apache/flink-training#using-the-taxi-data-streams)
+- [Flink源码阅读笔记](https://blog.jrwang.me/tags/flink/)
+- [Hadoop生态圈常用大数据组件文档](https://github.com/realguoshuai/hadoop_study)
 - [UIUC CS511](https://yongjoopark.com/teaching/sp2021/cs511)
 - [dtm框架](https://github.com/dtm-labs/dtm)
 - [将 paxos 和 raft 统一到一个协议下: abstract-paxos](https://blog.openacid.com/algo/abstract-paxos/)
