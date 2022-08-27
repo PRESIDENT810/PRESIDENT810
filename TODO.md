@@ -51,7 +51,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
   - [课程笔记](http://cs294-112.apachecn.org/#/README)
 - ~~[Stanford CS110L Safety in Systems Programming](https://www.bilibili.com/video/BV1Ra411A7kN)~~
 - [Stanford CS007 Personal Finance for Engineers](https://cs007.blog)
-- [Stanford CS107 Programming Paradigms]([https://www.bilibili.com/video/BV1ua4y1a72K](https://www.bilibili.com/video/BV1Cx411S7HJ)
+- [Stanford CS107 Programming Paradigms](https://www.bilibili.com/video/BV1Cx411S7HJ)
   - [课程笔记](https://zhenghe.gitbook.io/open-courses/stanford-cs107/di-er-ke-yuan-shi-shu-ju-lei-xing-ji-xiang-hu-zhuan-hua)
 - [Stanford CS329s Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html)
 - [Stanford CS242 Programming Languages](https://stanford-cs242.github.io/f18/)
