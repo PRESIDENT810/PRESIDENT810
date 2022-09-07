@@ -60,7 +60,8 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [UIUC ECE408 Applied Parallel Programming](https://www.bilibili.com/video/BV11U4y1n7C8)
 
 
-## Leetcode
+## Data Structure & Algorithm
+- [OI WiKi](https://oi-wiki.org)
 - https://leetcode-cn.com/problems/all-oone-data-structure/solution/quan-o1-de-shu-ju-jie-gou-by-leetcode-so-7gdv/
 - https://leetcode-cn.com/problems/longest-word-in-dictionary/solution/
 - https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/
