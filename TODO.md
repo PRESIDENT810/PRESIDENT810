@@ -164,6 +164,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [LLVM Command Guide](https://llvm.org/docs/CommandGuide/index.html)
 - [LLVM Language Reference](https://llvm.org/docs/LangRef.html)
 - [Apple Compact Unwinding Format](https://gankra.github.io/blah/compact-unwinding/)
+- https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588/11
 
 
 ## Golang
@@ -221,8 +222,6 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [Flink教程](https://github.com/apache/flink-training#using-the-taxi-data-streams)
 - [Flink源码阅读笔记](https://blog.jrwang.me/tags/flink/)
 - [Hadoop生态圈常用大数据组件文档](https://github.com/realguoshuai/hadoop_study)
-- [UIUC CS511](https://yongjoopark.com/teaching/sp2021/cs511)
-- [dtm框架](https://github.com/dtm-labs/dtm)
 - [将 paxos 和 raft 统一到一个协议下: abstract-paxos](https://blog.openacid.com/algo/abstract-paxos/)
 - [分布式锁](https://tech.bytedance.net/articles/7099278087883816997)
 - [云原生资料库](https://lib.jimmysong.io/)
