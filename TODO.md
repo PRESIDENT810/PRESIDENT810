@@ -17,6 +17,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [Google 开源项目风格指南——中文版](https://zh-google-styleguide.readthedocs.io/en/latest/)
 - [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- https://sugarac.gitbooks.io/high-frequency-interview-questions-and-answers/content/bq-by-xiao-tu-dao.html
 
 
 ## Courses
