@@ -238,6 +238,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [CNCF landscape](https://landscape.cncf.io/)
 - [论文阅读笔记](https://github.com/dyweb/papers-notebook)
 - [DDIA 逐章精读](https://ddia.qtmuniao.com/#/)
+- [Google论文、开源与云计算](https://coderzc.github.io/blog/2021/3HR80D1/)
 
 ## Web3
 - [Web3-awesome](https://github.com/fltenwall/web3-awesome)
