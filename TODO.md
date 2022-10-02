@@ -76,7 +76,6 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - 微服务架构设计模式
 - Kubernetes in Action
 - [凤凰架构](https://icyfenix.cn/immutable-infrastructure/msa-to-cn.html)
-- [CSAPP](https://hansimov.gitbook.io/csapp/)
 - 2021技术人的百宝黑皮书
 - SICP
 - 构建之法
