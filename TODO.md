@@ -63,9 +63,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 
 ## Data Structure & Algorithm
 - [OI WiKi](https://oi-wiki.org)
-- https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/
-- https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
-- https://leetcode.cn/problems/my-calendar-ii/solution/by-lfool-nodi/
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html#navigation)
 
 
 ## Reading
