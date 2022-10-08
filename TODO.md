@@ -129,12 +129,10 @@ A list full of resources I plan to study, feel free to contact me for discussion
 
 
 ## WASM
-- [A practical guide to WebAssembly memory](https://radu-matei.com/blog/practical-guide-to-wasm-memory/)
-- [Go-beyond-Docker-with-WebAssembly-on-the-server-side](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Go-beyond-Docker-with-WebAssembly-on-the-server-side)
-- [Krustlet Quick Start](https://docs.krustlet.dev/intro/quickstart/)
+- [A practical guide to WebAssembly memory](https://radu-matei.com/blog/practical-guide-to-wasm-memory/))
 - [WASMEDGE Book](https://wasmedge.org/book/en/)
-- [wasmer](https://github.com/wasmerio/wasmer)
 - [WebAssembly Doc](https://developer.mozilla.org/zh-CN/docs/WebAssembly)
+- [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
 
 
 ## Lisp
