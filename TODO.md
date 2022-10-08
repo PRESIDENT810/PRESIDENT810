@@ -102,6 +102,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - https://maskray.me/static/design-thinking-of-eight-programming-languages.pdf
 - https://howardlau.me/programming/coroutines-rust-cpp20.html
 - https://swtch.com/~rsc/regexp/regexp1.html
+- [计算机系统中的异常与中断](https://www.luozhiyun.com/archives/705)
 
 
 ## C++
@@ -184,6 +185,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [深入浅出etcd](https://mrcroxx.github.io/posts/code-reading/etcdraft-made-simple/0-introduction/)
 - [LevelDB 源码剖析](https://github.com/rsy56640/read_and_analyse_levelDB)
 - [PostgreSQL Notes](https://vonng.github.io/pg/#/)
+- [TiKV源码阅读](https://tanxinyu.work/tikv-source-code-reading-module/)
 
 
 ## Computer System
