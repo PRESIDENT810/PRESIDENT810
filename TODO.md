@@ -30,6 +30,8 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [MIT 6.046 Design and Analysis of Algorithms](https://www.bilibili.com/video/av34892415)
 - [MIT 6.172 Performance Engineering of Software Systems](https://www.bilibili.com/video/BV1wA411h7N7)
 - [MIT 6.175 Constructive Computer Architecture](http://csg.csail.mit.edu/6.175/)
+- [MIT 6.s081](https://www.bilibili.com/video/BV19k4y1C7kA/?vd_source=3cc2abeee49cc61d00773c46a82e8907)
+  - [翻译](https://mit-public-courses-cn-translatio.gitbook.io/mit6-s081/)
 - [MIT 6.s095 Programming for The Puzzled](https://www.bilibili.com/video/BV1YE41157iA)
 - [MIT 6.NULL The Missing Semester of Your CS Education](https://www.bilibili.com/video/BV14E411J7n2)
 - [MIT 6.824 Distributed Systems](https://www.bilibili.com/video/BV1R7411t71W)
