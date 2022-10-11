@@ -46,7 +46,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [CMU 15418 Parallel Computer Architecture and Programming](https://www.bilibili.com/video/BV1qT411g7n9)
 - [CMU 15445 Intro to Database Systems](https://www.bilibili.com/video/BV1Cp4y1C7dv)
   - [课程笔记](https://zhenghe.gitbook.io/open-courses/cmu-15-445-645-database-systems/relational-data-model)
-- [CMU 15721 Advanced Databse Systems](https://www.bilibili.com/video/BV1aE411J7ak)
+- [CMU 15721 Advanced Database Systems](https://www.bilibili.com/video/BV1aE411J7ak)
 - [UCB CS61B Data Structures](https://fa22.datastructur.es)
 - [UCB CS162 Operating Systems and System Programming](https://www.bilibili.com/video/BV1yk4y1q7C6)
   - [课程笔记](https://zhenghe.gitbook.io/open-courses/ucb-cs162/os-intro)
