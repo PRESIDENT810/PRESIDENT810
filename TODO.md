@@ -31,7 +31,6 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [MIT 6.172 Performance Engineering of Software Systems](https://www.bilibili.com/video/BV1wA411h7N7)
 - [MIT 6.175 Constructive Computer Architecture](http://csg.csail.mit.edu/6.175/)
 - [MIT 6.s081 Introduction to Operating Systems](https://www.bilibili.com/video/BV19k4y1C7kA/)
-  - [翻译](https://mit-public-courses-cn-translatio.gitbook.io/mit6-s081/)
   - [课程笔记](https://mit-public-courses-cn-translatio.gitbook.io/mit6-s081/)
   - [Lab笔记](http://xv6.dgs.zone)
   - [xv6中文文档]https://th0ar.gitbooks.io/xv6-chinese/content/
