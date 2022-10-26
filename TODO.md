@@ -116,6 +116,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [C++20 Range](https://lancern.xyz/cpp20-ranges)
 - [理解 C++ 的六种 Memory Order](https://lancern.xyz/cpp-memory-order#7d4161525fa3462b9c0eae0df487af54)
 - [360 C++安全规则集合](https://github.com/Qihoo360/safe-rules)
+- [C++ Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)
 
 
 ## Rust
