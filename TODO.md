@@ -168,7 +168,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [7天用Go从零实现系列](https://github.com/geektutu/7days-golang)
 - [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
 - [Go 语言设计模式](https://github.com/senghoo/golang-design-pattern)
-- [Go 语言设计与实现 #](https://draveness.me/golang/)
+- [Go 语言设计与实现](https://draveness.me/golang/)
 
 
 ## Swift
