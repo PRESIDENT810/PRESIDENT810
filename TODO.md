@@ -228,6 +228,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [streaming systems领域论文](https://github.com/lw-lin/streaming-readings)
 - [Flink教程](https://github.com/apache/flink-training#using-the-taxi-data-streams)
 - [Flink源码阅读笔记](https://blog.jrwang.me/tags/flink/)
+- [Spark-2.3.1源码阅读笔记](https://github.com/CrestOfWave/Spark-2.3.1)
 - [Hadoop生态圈常用大数据组件文档](https://github.com/realguoshuai/hadoop_study)
 - [将 paxos 和 raft 统一到一个协议下: abstract-paxos](https://blog.openacid.com/algo/abstract-paxos/)
 - [分布式锁](https://tech.bytedance.net/articles/7099278087883816997)
