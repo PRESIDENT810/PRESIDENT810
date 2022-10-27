@@ -19,6 +19,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - https://sugarac.gitbooks.io/high-frequency-interview-questions-and-answers/content/bq-by-xiao-tu-dao.html
 - https://sunyunqiang.com
+- https://xisheng.vip
 
 
 ## Courses
