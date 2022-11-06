@@ -107,6 +107,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 
 
 ## C++
+- [C++ 程序设计语言](https://shenjun4cplusplus2.github.io/cplusplus2html/)
 - [C++最佳实践](https://github.com/cpp-best-practices/cppbestpractices)
 - [C++那点事](https://github.com/Light-City/CPlusPlusThings)
 - [Assembly Register Calling Convention Tutorial](https://www.raywenderlich.com/615-assembly-register-calling-convention-tutorial)
