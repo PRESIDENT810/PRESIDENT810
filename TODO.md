@@ -161,6 +161,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [LLVM Language Reference](https://llvm.org/docs/LangRef.html)
 - [Apple Compact Unwinding Format](https://gankra.github.io/blah/compact-unwinding/)
 - https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588/11
+- [LLVM Tutorial in Rust language](https://github.com/jauhien/iron-kaleidoscope)
 
 
 ## Golang
