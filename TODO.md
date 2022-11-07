@@ -20,6 +20,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - https://sugarac.gitbooks.io/high-frequency-interview-questions-and-answers/content/bq-by-xiao-tu-dao.html
 - https://sunyunqiang.com
 - https://xisheng.vip
+- https://xiaorui.cc
 
 
 ## Courses
