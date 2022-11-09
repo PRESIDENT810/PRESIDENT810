@@ -139,6 +139,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [WASMEDGE Book](https://wasmedge.org/book/en/)
 - [WebAssembly Doc](https://developer.mozilla.org/zh-CN/docs/WebAssembly)
 - [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
+- [凹语言-专注于 WASM 平台的简单、可维护的编译型通用语言](https://github.com/wa-lang/wa/)
 
 
 ## Lisp
@@ -254,6 +255,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [论文阅读笔记](https://github.com/dyweb/papers-notebook)
 - [DDIA 逐章精读](https://ddia.qtmuniao.com/#/)
 - [Google论文、开源与云计算](https://coderzc.github.io/blog/2021/3HR80D1/)
+- [k8s tutorials](https://github.com/guangzhengli/k8s-tutorials)
 
 ## Web3
 - [Web3-awesome](https://github.com/fltenwall/web3-awesome)
