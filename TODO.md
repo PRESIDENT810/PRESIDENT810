@@ -132,6 +132,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [Open-Source-OS-Tutorial-Summer-of-Code-2022](https://learningos.github.io/rust-based-os-comp2022/)
 - [Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 - [使用Rust编写操作系统](https://github.com/rustcc/writing-an-os-in-rust)
+- [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/index.html)
 
 
 ## WASM
