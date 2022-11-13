@@ -21,6 +21,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - https://sunyunqiang.com
 - https://xisheng.vip
 - https://xiaorui.cc
+- https://jimmysong.io/cheatsheets/
 
 
 ## Courses
@@ -247,7 +248,6 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [envoy-handbook](https://github.com/rootsongjc/envoy-handbook)
 - [service-mesh-devsecops](https://github.com/rootsongjc/service-mesh-devsecops)
 - [serverless-handbook](https://github.com/rootsongjc/serverless-handbook)
-- https://jimmysong.io/cheatsheets/
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)
 - [深入TiDB](https://www.luozhiyun.com/archives/tag/tidb)
 - [深入k8s](https://www.luozhiyun.com/archives/tag/深入k8s)
@@ -271,5 +271,5 @@ A list full of resources I plan to study, feel free to contact me for discussion
 
 
 ## Tools
-- [在 2022 年使用 Notion 管理博客文章](https://lancern.xyz/notion-for-blog-in-2022)
+- [在 2022 年使用 Notion 管理博客文章](https://lancern.xyz/2022/01/30/blog-management-by-notion/)
 
