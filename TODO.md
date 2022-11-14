@@ -7,8 +7,6 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 - [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/)
 - [https://xiaoyang-liu.com](https://xiaoyang-liu.com/)
-- [美国四大CS名校MIT的计算机课程介绍](https://zhuanlan.zhihu.com/p/390868049)
-- [CMU ECE-CS Guide](https://github.com/CMU-HKN/CMU-ECE-CS-Guide)
 - [system-design-interview](https://github.com/checkcheckzz/system-design-interview)
 - [Grokking-System-Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)
 - [system-design-resources](https://github.com/InterviewReady/system-design-resources)
@@ -22,6 +20,7 @@ A list full of resources I plan to study, feel free to contact me for discussion
 - https://xisheng.vip
 - https://xiaorui.cc
 - https://jimmysong.io/cheatsheets/
+- https://wangchujiang.com/reference/
 
 
 ## Courses
