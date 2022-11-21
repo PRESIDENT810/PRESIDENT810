@@ -16,7 +16,7 @@ Currently looking for a 2023 summer internship in U.S.
 - Self-studying [MIT-6.824](https://pdos.csail.mit.edu/6.824/schedule.html)
 
 
-💬 View my [TODO-list](https://github.com/PRESIDENT810/PRESIDENT810/blob/main/TODO.md) here, a treasure trove full of learning resources.
+💬 View my [TODO-list](https://qo0rpw16is.larksuite.com/docx/Iqp4djbEWoavRzxtS2Eu0WY3sfb) here, a treasure trove full of learning resources.
 
 📄 Check my [Resume](https://github.com/PRESIDENT810/PRESIDENT810/blob/main/Resume.pdf).
 
