@@ -4,8 +4,6 @@
 
 ## About me
 
-Currently looking for a 2023 summer internship in U.S.
-
 - **University of Illinois, Urbana Champaign** (2022-2024, expected): Electrical & Computer Engineering major, with a Master of Engineering
 - **TikTok**: Client Infrastructure (2021-2022), worked on Bazel and LLVM infrastructure, mostly iOS-related.
 - **The Chinese University of Hong Kong, Shenzhen** (2017-2021): Computer Science & Engineer major, with a Bachlor of Engineering.
