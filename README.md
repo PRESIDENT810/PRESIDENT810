@@ -17,6 +17,10 @@
 
 💬 View my [TODO-list](https://qo0rpw16is.larksuite.com/docx/Iqp4djbEWoavRzxtS2Eu0WY3sfb) here, a treasure trove full of learning resources.
 
+📎 Visit [a collections of articles](https://qo0rpw16is.larksuite.com/drive/folder/fldusqzmzOa7TsZYAmmNd78IZmd) that I find enlightening (mostly in Chinese)
+
+📚 Read [a list of books](https://qo0rpw16is.larksuite.com/drive/folder/fldusAokxXhRYB53KFdIotFkr3b) I highly recommend and make many notes
+
 📄 Check my [Resume](https://github.com/PRESIDENT810/PRESIDENT810/blob/main/Resume.pdf).
 
 
