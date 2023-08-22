@@ -4,7 +4,7 @@
 
 ## About me
 - **Tesla** (2023.8-2023.12, expected): Mobile iOS Engineering Intern
-- **Amazon** (2023.5-2023.8 expected): AWS CloudFront, control plane intern
+- **Amazon** (2023.5-2023.8): AWS CloudFront, Control Plane intern
 - **University of Illinois, Urbana Champaign** (2022.8-2024.5, expected): Electrical & Computer Engineering major, with a Master of Engineering
 - **TikTok**: Client Infrastructure (2021.7-2022.7), worked on Bazel and LLVM infrastructure, mostly iOS-related.
 - **The Chinese University of Hong Kong, Shenzhen** (2017.8-2021.5): Computer Science & Engineer major, with a Bachlor of Engineering.
