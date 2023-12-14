@@ -7,7 +7,7 @@
 - **Amazon** (2023.5-2023.8): AWS CloudFront, Control Plane intern
 - **University of Illinois, Urbana Champaign** (2022.8-2024.5, expected): Electrical & Computer Engineering major, with a Master of Engineering
 - **TikTok**: Client Infrastructure (2021.7-2022.7), worked on Bazel and LLVM infrastructure, mostly iOS-related.
-- **The Chinese University of Hong Kong, Shenzhen** (2017.8-2021.5): Computer Science & Engineer major, with a Bachlor of Engineering.
+- **The Chinese University of Hong Kong, Shenzhen** (2017.8-2021.5): Computer Science & Engineer major, with a Bachelor of Engineering.
 
 💬 View my [TODO-list](https://qo0rpw16is.larksuite.com/docx/Iqp4djbEWoavRzxtS2Eu0WY3sfb) here, a treasure trove full of learning resources.
 
