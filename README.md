@@ -10,7 +10,7 @@
 - **TikTok** (2021.7-2022.7): Client Infrastructure - Software Engineer
 - **The Chinese University of Hong Kong, Shenzhen** (2017.8-2021.5): Computer Science & Engineer major, BEng
 
-💬 View my [PRESIDENT810’s Collection for Software Engineers](https://president810.notion.site/Collection-for-Software-Engineers-9d943b4a5be1415bbdcc2c919de73144)
+💬 View my [Collection for Software Engineers](https://president810.notion.site/Collection-for-Software-Engineers-9d943b4a5be1415bbdcc2c919de73144)
 
 📄 Check my [Resume](https://github.com/PRESIDENT810/PRESIDENT810/blob/main/Resume.pdf).
 
