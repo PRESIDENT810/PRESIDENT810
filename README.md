@@ -3,11 +3,11 @@
 </p>
 
 ## About me
-- **Tesla** (2024.6, expected - ): Vehicle Software - Software Engineer
-- **Tesla** (2023.8-2023.12, expected): Vehicle Software - Software Engineer Intern
+- **Tesla** (2024.6 - Now): Vehicle Software - Software Engineer
+- **Tesla** (2023.8-2023.12): Vehicle Software - Software Engineer Intern
 - **Amazon** (2023.5-2023.8): AWS CloudFront, Control Plane - Software Engineer intern
 - **University of Illinois, Urbana Champaign** (2022.8-2024.5): Electrical & Computer Engineering major, MEng
-- **TikTok** (2021.7-2022.7): Client Infrastructure - Software Engineer
+- **ByteDance** (2021.7-2022.7): Client Infrastructure - Software Engineer
 - **The Chinese University of Hong Kong, Shenzhen** (2017.8-2021.5): Computer Science & Engineer major, BEng
 
 💬 View my [Collection for Software Engineers](https://president810.notion.site/Collection-for-Software-Engineers-9d943b4a5be1415bbdcc2c919de73144)
