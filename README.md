@@ -3,7 +3,8 @@
 </p>
 
 ## About me
-- **Tesla** (2024.6 - Now): Vehicle Software - Software Engineer
+- **NVIDIA** (2026.1 - Now): Senior Performance Engineer - Deep Learning
+- **Tesla** (2024.6 - 2026.1): Vehicle Software - Software Engineer
 - **Tesla** (2023.8-2023.12): Vehicle Software - Software Engineer Intern
 - **Amazon** (2023.5-2023.8): AWS CloudFront, Control Plane - Software Engineer intern
 - **University of Illinois, Urbana Champaign** (2022.8-2024.5): Electrical & Computer Engineering major, MEng
